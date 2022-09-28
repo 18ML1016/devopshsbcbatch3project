@@ -1,2 +1,16 @@
 To create this folder as a local repository 
 go to cmd and go inside this folder and type go init 
+
+Create a repository in your github
+then in cmd
+git remote add origin https://github.com/18ML1016/devopshsbcbatch3project.git
+
+then git branch
+
+git pull origin master --allow-unrelated-histories
+
+for this to work we may need to change main to master in github
+
+
+git push origin master
+
