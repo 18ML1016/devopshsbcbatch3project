@@ -1,0 +1,2 @@
+To create this folder as a local repository 
+go to cmd and go inside this folder and type go init 
